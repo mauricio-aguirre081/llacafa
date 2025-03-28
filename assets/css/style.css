@@ -437,6 +437,9 @@ h6 {
     font-size: 28px;
     line-height: 36px;
   }
+  .product-screens {
+    display: none;
+  }
 }
 
 #hero p {
@@ -452,6 +455,11 @@ h6 {
     line-height: 24px;
     margin-bottom: 20px;
   }
+
+  .product-screens {
+    display: none;
+  }
+
 }
 
 #hero .btn-get-started {
